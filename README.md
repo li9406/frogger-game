@@ -1,4 +1,6 @@
-# Simple Frogger Game using RXJS
+# Simple Frogger Game using RxJS
+
+The Frogger game is created using Functional Reactive Programming (FRP) techniques and implemented in TypeScript. I have used RxJS Observable streams to handle animation and user interaction.
 
 ## Features
 * Ground Section: Filled with moving cars (in grey), trucks (in pink) and flies (in red). Eat a fly to receive 50 bonus points. The flies will only appear at the first 10 seconds of each level. Watch out for cars and trucks that can end your journey! As the level increases, the speed of the cars and trucks increases, making it more challenging to avoid them.
@@ -16,4 +18,4 @@
 3. Use logs and turtles to cross the river but be cautious of the teleporting turtles that teleport the frog back to the starting point.
 4. Your goal is to reach the 5 target areas on the top of the screen.
 5. Each time you successfully reach a target area, you will score 100 points.
-6. Have fun and enjoy the challenge! 
+6. Have fun and enjoy the challenge!
