@@ -1,4 +1,4 @@
-# Simple Frogger Game using RxJS
+# Frogger Arcade Game using RxJS
 
 The Frogger game is created using Functional Reactive Programming (FRP) techniques and implemented in TypeScript. I have used RxJS Observable streams to handle animation and user interaction.
 
